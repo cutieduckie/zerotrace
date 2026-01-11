@@ -4,10 +4,11 @@ linux-no-traces
 This script is designed for scenarios where minimal persistent logging is desired: temporary servers, testing environments, penetration testing labs, privacy-focused personal setups, or educational anti-forensics research.
 
 ⚠️ **Important Warning**  
+
 This script significantly reduces or eliminates system logging and forensic artifacts. It can impair security auditing, monitoring, troubleshooting, and compliance.  
 Use **only** on systems you fully own and control. It may violate organizational policies, hosting provider terms, or legal requirements in certain contexts. Apply at your own risk.
 
-## disable-logs.sh
+## zerotrace.sh
 
 The script performs the following actions:
 
